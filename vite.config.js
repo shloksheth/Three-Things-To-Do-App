@@ -36,5 +36,5 @@ export default defineConfig({
       }
     })
   ],
-  base: '/three-things-to-do/',
+  base: '/Three-Things-To-Do-App/',
 })
